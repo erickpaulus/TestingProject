@@ -1,2 +1,2 @@
 # image_analysis
-This repository is used to record my experiment to deal with the challenges on the ancient manuscripts
+This repository is used to recorded my experiment to deal with the Handwriting Character Recognition challenges on the ancient manuscripts

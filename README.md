@@ -50,6 +50,6 @@ class Program
     }
 }
 '''
-Make sure to replace "path_to_chromedriver\chromedriver.exe", "https://example.com/login", "your_username", and "your_password" with the appropriate values for your use case.
+Make sure to replace "path_to_chromedriver\chromedriver.exe", "https://example.com/login", "your_username", and "your_password" with the appropriate values for your use case. Another important matter, please adjust the id of User Interface (UI) components such as Username field, password field, Login Button. Because each website may declare it in diffrent naming.
+This script will launch the Chrome browser, go to the login page, enter a username and password, and then press the login button. You can modify the code to interact with other website components or carry out extra tasks after signing in
 
-This code will open a Chrome browser window, navigate to the login page, fill in the username and password fields, and click the login button. You can extend the code to interact with other elements on the page or perform additional actions after logging in.

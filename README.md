@@ -1,4 +1,4 @@
-# Testing Project
+# Testing Project with C# and Selenium
 This repository contains my experiments to deal with the automating login in a certain web page using C# and Selenium. 
 
 It involves Selenium WebDriver and a web browser driver like ChromeDriver. 
@@ -56,3 +56,5 @@ Make sure to replace "path_to_chromedriver\chromedriver.exe", "https://example.c
 This script will launch the Chrome browser, go to the login page, enter a username and password, and then press the login button. You can modify the code to interact with other website components or carry out extra tasks after signing in
 
 The next step how to run this executable automatically. There are several ways which depend on your operation system. For my experiment, I used a Task Schedular to run the executable file. In Linux/MAC, Cron Jobs can be a good solution. 
+
+By knowing this testing project, you can extend this project to automatically log in to open Wi-Fi that requires web login.

@@ -10,7 +10,7 @@ In your Visual Studio project, right-click on "References" and select "Manage Nu
 
 2. Download and set up a WebDriver for your preferred web browser. For example, if you want to use Chrome, download ChromeDriver from the official website (https://sites.google.com/chromium.org/driver/), unzip the executable, and install it in your project folder or any directory you prefer.
 
-3. Open a class or a project 
+3. Create a project 
 4. add these two namespaces in your C# code:
 
 ```

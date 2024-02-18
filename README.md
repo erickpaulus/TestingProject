@@ -1,5 +1,5 @@
 # Testing Project with C# and Selenium
-This repository contains my experiments to deal with the automating login in a certain web page using C# and Selenium. 
+This repository contains my experiments to deal with the automated login in a certain web page using C# and Selenium. 
 
 It involves Selenium WebDriver and a web browser driver like ChromeDriver. 
 
